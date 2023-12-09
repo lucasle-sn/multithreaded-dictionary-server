@@ -4,7 +4,7 @@
  *    COMP90015 Distributed System
  *    Semester 01/2020
  *
- *    Author: QUANG TRUNG LE - 987445
+ *    Author: QUANG TRUNG LE
  */
 
 
