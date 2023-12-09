@@ -17,8 +17,8 @@ A multi-threaded server allows many clients to connect concurrently. Each client
 	```
 	
 	Where: 	
-		* `<port>`: the port number where the server will listen for incoming client connections
-		* `<dictionary-file>`: the path to the file containing the initial dictionary data
+	* `<port>`: the port number where the server will listen for incoming client connections
+	* `<dictionary-file>`: the path to the file containing the initial dictionary data
 
 
 2. Input of "DictionaryClient" is:
@@ -28,5 +28,5 @@ A multi-threaded server allows many clients to connect concurrently. Each client
 	```
 	
 	Where
-		* `<server-address>`: IP address of the server
-		* `<server-port>`: the port number where the server will listen for incoming client connections
+	* `<server-address>`: IP address of the server
+	* `<server-port>`: the port number where the server will listen for incoming client connections
